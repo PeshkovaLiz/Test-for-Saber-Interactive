@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\TestSerialize\TestSerialize\bin\Debug\TestSerialize.exe.config
+C:\Users\hp\Desktop\TestSerialize\TestSerialize\bin\Debug\TestSerialize.exe
+C:\Users\hp\Desktop\TestSerialize\TestSerialize\bin\Debug\TestSerialize.pdb
+C:\Users\hp\Desktop\TestSerialize\TestSerialize\obj\Debug\TestSerialize.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\TestSerialize\TestSerialize\obj\Debug\TestSerialize.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\TestSerialize\TestSerialize\obj\Debug\TestSerialize.exe
+C:\Users\hp\Desktop\TestSerialize\TestSerialize\obj\Debug\TestSerialize.pdb
+C:\Users\hp\Desktop\Test Saber\TestSerialize\TestSerialize\bin\Debug\TestSerialize.exe.config
+C:\Users\hp\Desktop\Test Saber\TestSerialize\TestSerialize\bin\Debug\TestSerialize.exe
+C:\Users\hp\Desktop\Test Saber\TestSerialize\TestSerialize\bin\Debug\TestSerialize.pdb
+C:\Users\hp\Desktop\Test Saber\TestSerialize\TestSerialize\obj\Debug\TestSerialize.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Test Saber\TestSerialize\TestSerialize\obj\Debug\TestSerialize.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Test Saber\TestSerialize\TestSerialize\obj\Debug\TestSerialize.exe
+C:\Users\hp\Desktop\Test Saber\TestSerialize\TestSerialize\obj\Debug\TestSerialize.pdb
